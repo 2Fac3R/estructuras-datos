@@ -1,7 +1,7 @@
 {
   "name": "estructuras-datos",
   "version": "1.0.0",
-  "description": "",
+  "description": "Curso de Estructuras de Datos con JavaScript en Platzi",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
